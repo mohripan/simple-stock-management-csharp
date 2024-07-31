@@ -1,0 +1,1 @@
+# simple-stock-management-csharp
